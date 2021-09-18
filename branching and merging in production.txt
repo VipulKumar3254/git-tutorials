@@ -1,0 +1,5 @@
+if you wants to merge the changes of the  branch in the master branch then you can use the command:
+
+first of all you need to go to the master branch and then use this command to merge the code of the branch in the master branch:
+    git merge <name of the branch> 
+    
