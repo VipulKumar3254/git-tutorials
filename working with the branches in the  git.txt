@@ -1,0 +1,21 @@
+if you wants to make the new branch in the git you can use the command :
+    git checkout -b <name of the branch>
+
+ to delete the git repository:
+    rm -rf .git
+
+in the branching structure files that are ingonred in the .ignore file will be considered as ingonred once.
+means no effect will happen on them.
+
+if you moves them or deletes it will not make too much effect(no effect)
+
+to view the current branch:
+    git branch (this command will tell you all the branches in the git)
+
+    current working branch will be highlighted.
+    
+
+    just making the branch:
+    git branch <name of the branch>
+
+    

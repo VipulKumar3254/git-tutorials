@@ -1,0 +1,58 @@
+steps to make the new remote repository
+
+git hub.com
+
+new repository
+ give the name of the new repository
+
+ use access modifier.
+
+ create the new repository
+
+
+then after making the new remote repository
+
+we have to push the code to the remote repository
+
+// git remote
+
+general naming convention
+pull stands for the getting the code from the remote repository
+push stands for the giving the code to the remote repository
+
+
+git remote add origin branch <url>
+    hit the enter key
+
+we can also change the origin
+
+
+    git remote -v 
+    that command tells push and pull url of the remote repository
+    how to push the code to the remote repository
+
+    git push -u origin master
+    to push the code to the remote repository
+
+    it is also possible that it thow an error that you have not permisiion to push the code in the remote repository
+    to enable yourself to push the coded in the remote repository
+    go to the settings of the github account
+        go to ssh and gpg keys 
+        and add new ssh key
+        give title and key
+        // generate the ssh key
+        there are too much website those tells how to generate the ssh key
+        in git
+
+    copy the ssh key after generating it and then put(paste) in the git bash( in the git repo folder cmd or bash) and hit the enter key
+
+
+it    will tell you agent id
+
+
+
+
+
+
+
+

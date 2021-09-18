@@ -1,0 +1,11 @@
+to make the file match with the last  commit because you have modified the content of the file accidently so you can use the command :
+
+git checkout -- <name of the file>
+
+and that command is tested by me personally.
+
+git checkout -f is the command that can be used to do the files (all) at the stage of the last commit.
+
+How to unstage the files in git that you have staged by mistake:
+
+git restore --staged <name of the file>

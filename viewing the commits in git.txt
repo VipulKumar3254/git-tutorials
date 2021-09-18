@@ -1,0 +1,29 @@
+git log
+to view the all commits in the git repository.
+
+git log -p
+this command also tells the which of the things are changed in the git repository.
+
+git log -p -6 
+that command will show you first six commits in the git repository.
+
+git log --stats 
+it tells in short what is happend in the commit.
+
+git log --pretty=oneline
+it shows the commits in the one line.
+
+git log -pretty=short
+it tells the commits in the short line.
+
+git log -pretty=full
+it tells all the commits in the full length(in detail)
+
+git log --since=2.days
+it will tell you all the commits in last two days.
+
+git commit --amend
+is the command that is used to update the last commit that is commited in the git repository.
+
+
+

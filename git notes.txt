@@ -1,0 +1,58 @@
+It will be the full course of the git 
+ there i will write down all the  commands of the git 
+
+ first of all you have to check the status of the git repository.
+
+ command for the status check will be git status
+
+
+ and to setup the git in your system. you have to configure the git in your system. you
+ steps to configure  the git in your system.
+     1. git --version  // to check the version of the git in your system and to ensure the installation of the git in your system. 
+
+     2. git config --global user.name "<name of the user>"
+     3. git config --global user.email "<email of the user>"
+     to check the username and the email of the user. you can run the following command
+      git config --list
+
+      after the status, if it is the git repository then you can continue that 
+      or not then you can initilaise it as the git repositor.
+
+      to initilaise the repository use command "git init"
+
+      ther are three levels of the git repository that you should know about.
+       1. local directory
+       2. staging area
+       3. git repository
+
+
+    staging area
+
+                    to add the files in the staging area 
+       you have to run the command "git add <name of the files along with the extensions of the file>"
+       if you wants to put all the files in the staging area you have to run the command "git add --a " (that will push all the files to the staging area)
+
+         and at last if you wants to put the staged files to the git repository you have to comit all the files that are staged to the staging area
+
+        command for it is "git commit -m "a messege about the commit" " 
+
+
+
+        git log
+                 to find all the logs that you do in git repository 
+                you can run the command "git log"
+                and it will show all the logs that you created in the repository 
+
+
+        To delete the git repository you can run the command "rm -rf .git"
+        this will delete the .git folder. 
+
+         making the clone of the tenserflow repository
+          git clone < url of the repository> and if you wants to give the customised name of the repo then put a space and then type the name of the repository 
+
+          
+
+
+
+      
+
