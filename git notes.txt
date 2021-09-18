@@ -53,6 +53,22 @@ It will be the full course of the git
           
 
 
+To see the last commit of every branch use the command :
+	git branch -v 
+
+ to see teh already merged branches:
+  git branch --merged
+
+to see the not merged branches:
+git branch --no -merged
+
+to delete the branch:
+  git branch -d <name of the branch>
+
+to delete the branch i.e. not merged in master branch:
+  git branch -D <name of the branch>
+
+
 
       
 
