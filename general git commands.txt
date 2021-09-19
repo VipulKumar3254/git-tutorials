@@ -1,0 +1,6 @@
+to unstage the files :
+    git restore --staged <name of the file>
+
+a command that has meaning : to get back the changes of all files in the repository  to the last commit:
+    git diff .
+    
