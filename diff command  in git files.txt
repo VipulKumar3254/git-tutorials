@@ -1,0 +1,13 @@
+if you wants to see the differences in the files that you made accidentle or inaccidentally.
+Then you can use the command : 
+git diff 
+this command will show you all the changes in the  repository.
+
+if you wants to see the file specific changes in the repository
+
+then:  git diff <name of the file>
+
+if you wants to see the changes in the staged  file:
+    then:  git diff --staged <name of the file> 
+
+    
