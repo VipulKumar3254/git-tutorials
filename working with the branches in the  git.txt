@@ -18,4 +18,12 @@ to view the current branch:
     just making the branch:
     git branch <name of the branch>
 
+    deleting the branch on local machine: 
+        git branch -b <name of the branch>
+
+    deleting the branch on remote machine: 
+        git push origin --delete <name of the branch
+        
+
+
     
