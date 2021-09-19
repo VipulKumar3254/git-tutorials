@@ -10,4 +10,12 @@ then:  git diff <name of the file>
 if you wants to see the changes in the staged  file:
     then:  git diff --staged <name of the file> 
 
+Some another commands are also usefull related to the diff 
+    1. git diff :
+        to see the differences between the current working directory and the staging area.
+    2. git diff --staged :
+        to see the differences between the current staging area to the last commit.
+
+        
+
     
