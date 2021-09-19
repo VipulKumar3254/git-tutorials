@@ -1,0 +1,6 @@
+git add . or the giving the file name is the common way to stage the files.
+git add -A is the command by which you can stage all type of changes in the git repository.
+
+git add . will stage the new and modified changes in the git repository. it will ingone the changes regarding the deletes.
+
+git add -u will stage the modified and deleted changes it will not stage the changes those are new in the git repository.
