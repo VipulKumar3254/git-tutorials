@@ -23,6 +23,15 @@ to view the current branch:
 
     deleting the branch on remote machine: 
         git push origin --delete <name of the branch
+
+git remote -v is the command by which you can see the remote connections by which you are connected.
+
+git remote tells the  remote connection and git remote -v tells the urls for the push and pull.
+
+
+to delete the branch from the server use the command git push -d origin <name of the brach>
+	
+
         
 
 

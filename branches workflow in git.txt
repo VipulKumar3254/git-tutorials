@@ -1,0 +1,7 @@
+There are two types of the branches you will make:
+        long running branches
+        and short running branches(topic branches)
+
+
+
+
