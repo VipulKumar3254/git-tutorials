@@ -1,0 +1,1 @@
+thsi is the file for the checking of the deletion of the branch from the remote connection by the git command .
